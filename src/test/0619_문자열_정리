@@ -1,0 +1,8 @@
+## 문자열 String을 일부만 자르기 -> String.substring(a, b) ; String 문자열을 a index부터 b index 바로 앞까지 자른다.
+
+## 문자열 모두 대문자로 -> String.toUpperCase();
+ 문자열 모두 소문자로 -> String.toLowerCase();
+ 
+## String을 저장하고 있는 ArrayList에서 특정 문자열을 가지고 있는 개수 -> Collections.frequency(list, String); list의 item 중에서 String의 빈도를 return한다.
+
+## String을 특정 문자열 기준으로 자름 -> String.split("string"); string을 기준으로 String을 나눈 배열을 return한다.
